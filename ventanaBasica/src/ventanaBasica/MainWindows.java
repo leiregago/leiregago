@@ -10,7 +10,7 @@ public class MainWindows extends JFrame {
 	private static final long serialVersionUID = 1L;
 
 	public MainWindows (){
-		setTitle("Mi primera ventana");
+		setTitle("Ventana 2");
 		setSize(320,240);
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 	}
